@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cbdbe68b11338528ee24b111b7bc4c47:1/1$ -->
+<TextureAtlas imagePath="mySprite.png">
+    <SubTexture name="about_backButton" x="1767" y="507" width="176" height="82" frameX="0" frameY="-9" frameWidth="176" frameHeight="106"/>
+    <SubTexture name="about_starlingLogo" x="1749" y="315" width="185" height="66" frameX="-1" frameY="0" frameWidth="187" frameHeight="68"/>
+    <SubTexture name="bgLayer2" x="2" y="2" width="1222" height="462" frameX="-29" frameY="0" frameWidth="1280" frameHeight="720"/>
+    <SubTexture name="bgLayer3" x="467" y="466" width="1280" height="240"/>
+    <SubTexture name="bgLayer4" x="2" y="904" width="1280" height="112"/>
+    <SubTexture name="gameOver_aboutButton" x="1818" y="889" width="176" height="82" frameX="0" frameY="-9" frameWidth="176" frameHeight="106"/>
+    <SubTexture name="gameOver_mainButton" x="1752" y="805" width="176" height="82" frameX="0" frameY="-9" frameWidth="176" frameHeight="106"/>
+    <SubTexture name="gameOver_playAgainButton" x="1640" y="902" width="176" height="82" frameX="0" frameY="-9" frameWidth="176" frameHeight="106"/>
+    <SubTexture name="incoming_0001" x="1226" y="383" width="164" height="67"/>
+    <SubTexture name="incoming_0002" x="1354" y="315" width="162" height="59" frameX="0" frameY="-5" frameWidth="164" frameHeight="67"/>
+    <SubTexture name="incoming_0003" x="1518" y="315" width="160" height="47" frameX="0" frameY="-10" frameWidth="164" frameHeight="67"/>
+    <SubTexture name="incoming_0004" x="1683" y="383" width="156" height="41" frameX="0" frameY="-16" frameWidth="164" frameHeight="67"/>
+    <SubTexture name="incoming_0005" x="1226" y="383" width="164" height="67"/>
+    <SubTexture name="item_1" x="2001" y="162" width="43" height="33" frameX="-1" frameY="0" frameWidth="45" frameHeight="35"/>
+    <SubTexture name="item_2" x="2011" y="70" width="33" height="31" frameX="-6" frameY="-1" frameWidth="45" frameHeight="35"/>
+    <SubTexture name="item_3" x="2011" y="37" width="33" height="31" frameX="-5" frameY="-3" frameWidth="45" frameHeight="35"/>
+    <SubTexture name="item_4" x="2009" y="103" width="31" height="35" frameX="-6" frameY="0" frameWidth="45" frameHeight="35"/>
+    <SubTexture name="item_5" x="2011" y="2" width="33" height="33" frameX="-6" frameY="0" frameWidth="45" frameHeight="35"/>
+    <SubTexture name="item_7" x="1937" y="2" width="72" height="72"/>
+    <SubTexture name="item_6" x="1937" y="76" width="70" height="70" frameX="-1" frameY="0" frameWidth="72" frameHeight="72"/>
+    <SubTexture name="kevin_1" x="1651" y="708" width="114" height="95"/>
+    <SubTexture name="kevin_2" x="1636" y="805" width="114" height="95"/>
+    <SubTexture name="kevin_3" x="1535" y="708" width="114" height="95"/>
+    <SubTexture name="main_Btn" x="1752" y="805" width="176" height="82" frameX="0" frameY="-9" frameWidth="176" frameHeight="106"/>
+    <SubTexture name="obstacle1" x="1357" y="708" width="176" height="122" frameX="0" frameY="0" frameWidth="178" frameHeight="122"/>
+    <SubTexture name="obstacle1_crash" x="1284" y="832" width="176" height="122" frameX="0" frameY="0" frameWidth="178" frameHeight="122"/>
+    <SubTexture name="obstacle2" x="1179" y="708" width="176" height="122" frameX="0" frameY="0" frameWidth="178" frameHeight="122"/>
+    <SubTexture name="obstacle2_crash" x="1001" y="708" width="176" height="122" frameX="0" frameY="0" frameWidth="178" frameHeight="122"/>
+    <SubTexture name="obstacle3" x="823" y="708" width="176" height="122" frameX="0" frameY="0" frameWidth="178" frameHeight="122"/>
+    <SubTexture name="obstacle3_crash" x="1841" y="383" width="178" height="122"/>
+    <SubTexture name="obstacle4_0001" x="645" y="708" width="176" height="122" frameX="0" frameY="0" frameWidth="178" frameHeight="122"/>
+    <SubTexture name="obstacle4_0002" x="467" y="708" width="176" height="122" frameX="0" frameY="0" frameWidth="178" frameHeight="122"/>
+    <SubTexture name="obstacle4_crash" x="1462" y="832" width="172" height="104" frameX="-4" frameY="-1" frameWidth="178" frameHeight="122"/>
+    <SubTexture name="particleEat" x="2009" y="140" width="25" height="20"/>
+    <SubTexture name="particleWindForce" x="1226" y="452" width="277" height="7"/>
+    <SubTexture name="pauseButton" x="1290" y="315" width="62" height="62"/>
+    <SubTexture name="soundOff" x="1226" y="315" width="62" height="63" frameX="0" frameY="-1" frameWidth="62" frameHeight="65"/>
+    <SubTexture name="soundOn0000" x="1937" y="278" width="62" height="63" frameX="0" frameY="-1" frameWidth="62" frameHeight="65"/>
+    <SubTexture name="soundOn0001" x="1937" y="213" width="62" height="63" frameX="0" frameY="-1" frameWidth="62" frameHeight="65"/>
+    <SubTexture name="soundOn0002" x="1937" y="148" width="62" height="63" frameX="0" frameY="-1" frameWidth="62" frameHeight="65"/>
+    <SubTexture name="startButton" x="1462" y="938" width="176" height="82" frameX="0" frameY="-9" frameWidth="176" frameHeight="106"/>
+    <SubTexture name="welcome_aboutButton" x="1818" y="889" width="176" height="82" frameX="0" frameY="-9" frameWidth="176" frameHeight="106"/>
+    <SubTexture name="welcome_kevin" x="2" y="466" width="463" height="436" frameX="-2" frameY="-2" frameWidth="467" frameHeight="440"/>
+    <SubTexture name="welcome_playButton" x="1505" y="376" width="176" height="82" frameX="0" frameY="-9" frameWidth="176" frameHeight="106"/>
+    <SubTexture name="welcome_title" x="1226" y="2" width="709" height="311"/>
+</TextureAtlas>
